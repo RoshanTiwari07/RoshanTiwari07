@@ -1,4 +1,4 @@
-# Hello Dosto 👋  
+# Hello 👋  
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=App+Developer;Cloud+%26+DevOps+Engineer;Always+Learning+%26+Building" />
 
 ---
@@ -42,4 +42,8 @@ Passionate about **building production-ready applications** and **scalable cloud
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/roshan-tiwari-141601317)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-tiwari-141601317">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" style="border-radius:50%;" />
+  </a>
+</p>
